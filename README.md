@@ -17,10 +17,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
 
-## 📈 GitHub Stats
-
-![lkang172's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkang172&show_icons=true&theme=radical)
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](www.linkedin.com/in/lucas-kang-gt)
