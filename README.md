@@ -23,6 +23,3 @@
 
 <!-- Optional: Add a visitor counter -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=lkang172&color=blue&style=flat)
-
-<!-- Optional: Add a profile trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=lkang172&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
