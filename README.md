@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on halxyon and LucasGPT
-- 🌱 I’m currently learning ML and SQL
+- 🌱 I’m currently learning ML and SQL 
 - 👯 I’m happy to collaborate on anything so please reach out!
 - 📫 How to reach me: lucaskang.gt@gmail.com
 - 😄 Pronouns: he/him
