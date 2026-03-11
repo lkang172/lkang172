@@ -1,12 +1,6 @@
-## Hey, I'm Lucas, a freshman studying computer science at Georgia Tech :)
+## Hey, I'm Lucas, a junior studying computer science at Georgia Tech :)
 
-## 🚀 About Me
-- 🔭 I’m currently working on halxyon and LucasGPT
-- 🌱 I’m currently learning ML and SQL 
-- 👯 I’m happy to collaborate on anything so please reach out!
-- 📫 How to reach me: lucaskang.gt@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I've visited 10+ national parks
+Fun fact: I've visited 10+ national parks
 
 ## 🛠️ Technologies & Tools
 
