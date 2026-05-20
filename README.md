@@ -1,1 +1,1 @@
-- Junior studying CS @ Georgia Tech 
+Junior studying CS @ Georgia Tech 
